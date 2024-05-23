@@ -5,13 +5,13 @@ This project is an advanced implementation of a Full-Stack Survey Management Sys
 
 ## Technologies Used
 -- Spring Boot - For building the web application. <br/>
--- Docker - For containerizing the application.
--- Amazon RDS - For database services.
--- Rancher & Kubernetes - For orchestration and managing the containers.
--- Jenkins - For continuous integration and deployment.
+-- Docker - For containerizing the application. <br/>
+-- Amazon RDS - For database services.<br/>
+-- Rancher & Kubernetes - For orchestration and managing the containers.<br/>
+-- Jenkins - For continuous integration and deployment.<br/>
 
 ## Features
--- RESTful API: Create and retrieve survey data through REST API.
--- Database Integration: Connects with Amazon RDS for persistent storage.
--- CI/CD Pipeline: Automated build and deployment using Jenkins.
--- Container Orchestration: Utilizes Rancher and Kubernetes for deployment and scaling.
+-- RESTful API: Create and retrieve survey data through REST API.<br/>
+-- Database Integration: Connects with Amazon RDS for persistent storage.<br/>
+-- CI/CD Pipeline: Automated build and deployment using Jenkins.<br/>
+-- Container Orchestration: Utilizes Rancher and Kubernetes for deployment and scaling.<br/>
